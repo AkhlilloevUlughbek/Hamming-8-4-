@@ -1,5 +1,4 @@
-#include "hamming1.h"
-
+#include "../header/hamming1.h"
 
 namespace hamming1
 {
