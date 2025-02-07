@@ -1,13 +1,6 @@
 #ifndef HAMMING1_H_INCLUDED
 #define HAMMING1_H_INCLUDED
-#include <iostream>
-#include <cstdint>
-#include <bitset>
 #include <vector>
-using std::cout;
-using std::string;
-using std::cin;
-
 
 namespace hamming1
 {
