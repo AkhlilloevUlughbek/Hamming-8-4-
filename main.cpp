@@ -1,5 +1,7 @@
 #include "header/hamming1.h"
-
+#include <iostream>;
+using std::cin;
+using std::cout;
 
 void interface()
 {
